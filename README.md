@@ -20,6 +20,22 @@ The five questions are as follows:
    Tags: Java, string, substring, Google interview
 5. Given an array of integers, write a program to find the maximum sum of any contiguous subarray.
    Tags: Java, array, contiguous subarray, Google interview
+   
+6. Given an unsorted integer array nums, return the smallest missing positive integer.
+You must implement an algorithm that runs in O(n) time and uses constant extra space.
+
+7. Given an integer array nums and an integer k, split nums into k non-empty subarrays such that the largest sum of any subarray is minimized.
+Return the minimized largest sum of the split.
+Note : A subarray is a contiguous part of the array.
+
+8. Given a string containing just the characters '(' and ')', return the length of the longest valid (well-formed) parentheses substring
+
+9. Given a string s, find the length of the longest substring without repeating characters.
+
+10. Given an array of integers, rearrange the array in alternating positive and negative numbers, such that no two adjacent numbers have the same sign.
+
+11. Given an integer array nums, rotate the array to the right by k steps, where k is non-negative.
+
 
 ## Solutions
 
